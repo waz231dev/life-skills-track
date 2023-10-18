@@ -138,11 +138,11 @@ By embracing the SOLID principles in our project, we can simplify the codebase, 
 
 ## References
 
-- [SOLID Principles in Software Design](https://www.geeksforgeeks.org/solid-principles-in-software-design/) - GeeksforGeeks article explaining the SOLID principles in software design.
+- [SOLID Principle in Programming: Understand With Real Life Examples](https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/) - GeeksforGeeks article explaining the SOLID principles in software design.
 
-- [Understanding the SOLID Principles](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - DigitalOcean's article providing an in-depth understanding of the SOLID principles.
+- [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) - DigitalOcean's article providing an in-depth understanding of the SOLID principles.
 
-- [A Beginner's Guide to the SOLID Principles in Java](https://www.scaler.com/topics/solid-principles/) - Scaler article that offers insights into applying SOLID principles in Java.
+- [SOLID Design Principles](https://www.scaler.com/topics/software-engineering/solid-design-principles/) - Scaler article that offers insights into applying SOLID principles in Java.
 
 The provided links offer a variety of resources for learning more about the SOLID principles and their application in software development.
 
