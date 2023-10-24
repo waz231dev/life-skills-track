@@ -1,4 +1,4 @@
-# Learning Process
+# Grit and Growth mindset
 
 ## Q1. Paraphrase (summarize) the video in a few (1 or 2) lines.
     This video discusses the importance of grit in achieving success, which is defined as a combination of passion and perseverance.
